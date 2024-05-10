@@ -1,0 +1,58 @@
+/* add space */
+
+
+.input-wrapper {
+    width: 100%;
+    height: 100%;
+    border: none;
+    border-radius: 5px;
+    padding: 1 15px;
+    box-shadow: 4px  8px #8e8d8d;
+    background-color: rgb(156, 154, 154);
+    /* display: flex; */
+    align-items: center;
+  }
+  
+  input {
+    background-color: transparent;
+    /* border: none; */
+    height: 100%;
+    font-size: 1.25rem;
+    width: 100%;
+    margin-left: 5px;
+  }
+  
+  input:focus {
+    outline: none;
+  }
+  
+  #search-icon {
+    color: royalblue;
+  }.input-wrapper {
+    width: 100%;
+    height:4.5rem;
+    border: none;
+    border-radius: 10px;
+    padding:  15px;
+    background-color: rgb(222, 218, 218);
+    display: flex;
+    align-items: center;
+  }
+  
+  input {
+    background-color: transparent;
+    border: none;
+    height: 100%;
+    font-size: 2.05rem;
+    font-style: italic;
+     color: black;
+     font-style: bold;
+
+    width: 100%;
+    margin-left: 5px;
+  }
+  
+  
+  #search-icon {
+    color: royalblue;
+  }

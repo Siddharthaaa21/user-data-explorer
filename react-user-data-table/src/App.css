@@ -1,0 +1,31 @@
+#root {
+  max-width: 1280px;
+  margin:  auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+.logo-container {
+  width: 8%; /* Adjust this value as needed */
+  margin: 0 auto;
+  position: 'absolute';
+  top: '0';
+  right: '0';
+
+  width: '50px';
+  transform: 'translate(50%, -50%)';/* Center the container horizontally */
+}
+
+.logo  {
+  width: 300px; /* Adjust the width of your logo image */
+  height: 80px;
+}
+
+
+
+
+
+
+
+
